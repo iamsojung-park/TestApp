@@ -1,0 +1,30 @@
+{
+  "OutgoingCallHistory": [
+    {
+      "PhoneNumber": "111",
+      "formattedName": "aaa"
+    },
+    {
+      "PhoneNumber": "222",
+      "formattedName": "bbb"
+    },
+    {
+      "PhoneNumber": "333",
+      "formattedName": "ccc"
+    },
+    {
+      "PhoneNumber": "444",
+      "formattedName": "ddd"
+    },
+    {
+      "PhoneNumber": "555",
+      "formattedName": "eee"
+    },
+    {
+      "PhoneNumber": "666",
+      "formattedName": "fff"
+    }
+  ],
+  "Version": "v1.0.0",
+  "macAddress": "ABC123S1"
+}
